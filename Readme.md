@@ -1,6 +1,6 @@
 ### Project Title
 
-# 🚀 Task 4 – Version Controlled DevOps Project
+# 🚀 Task 3 – Version Controlled DevOps Project
 
 This repository demonstrates a **Git-based workflow** as part of Task 3 in the DevOps Internship Program. It follows an **industry-style branching strategy**, includes a simple **Login Page (HTML + CSS)**, and documents the entire workflow with **Pull Requests, Branches, and Tags**.
 
@@ -79,5 +79,6 @@ start index.html  # Windows
 
   - **Name**: Sumit Wade
   - **Internship**: DevOps Internship Task 3
+
 
 
